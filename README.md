@@ -88,9 +88,9 @@ Feel free to **fork** this repo, submit **issues**, or make **pull requests**. C
 ---
 
 ## 📞 Contact
-- **Author:** YOUR NAME
-- **GitHub:** [YOUR_GITHUB_PROFILE](https://github.com/YOUR_USERNAME)
-- **Email:** your.email@example.com
+- **Author:**Gaurav KAMBLE
+- **GitHub:** (https://github.com/gk-anonymous)
+- **Email:** gauravkamble9112@gmail.com
 
 Happy Coding! 🚀🔥
 
